@@ -1,5 +1,5 @@
 # SolutionArchitecture-project
-aws-graduation-project
+
 # Serverless Image Processing with S3 and Lambda
 
 ## Overview
