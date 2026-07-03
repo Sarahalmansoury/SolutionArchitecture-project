@@ -14,6 +14,8 @@ The AWS services used in this project are:
 - IAM for securing access to resources.
 
 ## Architecture Diagram
+<img width="1129" height="301" alt="project" src="https://github.com/user-attachments/assets/0acdb7a3-a2b9-4dd8-b4a3-a98321cc98e8" />
+
 
 
 ## Features
